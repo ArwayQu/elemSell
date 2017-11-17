@@ -15,9 +15,11 @@
 1. 商品页面，商家详情
 
 ![](http://oz8x9vozq.bkt.clouddn.com/shop.gif)
+
 2. 商品的选择
 
 ![](http://oz8x9vozq.bkt.clouddn.com/tx.gif)
+
 3. 购物车页面
 
 ![](http://oz8x9vozq.bkt.clouddn.com/car.gif)
