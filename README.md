@@ -13,20 +13,25 @@
 > 商家商品页面
 
 1. 商品页面，商家详情
+
 ![](http://oz8x9vozq.bkt.clouddn.com/shop.gif)
 2. 商品的选择
+
 ![](http://oz8x9vozq.bkt.clouddn.com/tx.gif)
 3. 购物车页面
+
 ![](http://oz8x9vozq.bkt.clouddn.com/car.gif)
 
 > 商家评价页面
 
 1. 查看好评，差评，以及有内容评论
+
 ![](http://oz8x9vozq.bkt.clouddn.com/pj.gif)
 
 > 商家详情页面
 
 1. 商家的公告，实景，信息
+
 ![](http://oz8x9vozq.bkt.clouddn.com/seller.gif)
 
 ---
